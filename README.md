@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding..
 - 🌱 I’m currently learning Full Stack Web Developing.
 - 💞️ I’m looking to collaborate on Instagram
-- 📫 How to reach me Instagram : ___rituraj
+- 📫 How to reach me : My instagram id :- ___rituraj
 
 <!---
 Ri2raj55/Ri2raj55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
